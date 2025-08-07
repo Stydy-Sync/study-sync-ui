@@ -75,6 +75,10 @@ Advanced filtering by topics and tags for easy session discovery
 
 Integrated calendar showing upcoming academic sessions
 
+![Upcoming Events](screenshots/upcoming-events.png)
+
+Quick overview widget showing upcoming sessions and events
+
 ### Email Notifications
 ![Email Invitation](screenshots/email-invitation.png)
 
